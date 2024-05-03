@@ -18,8 +18,8 @@ email: maya.arvanitis@mail.mcgill.ca
 - [Project 2](link)
 - [Project 3](link)
 
-### GitHub Stats:
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mayaarvanitis)](https://github.com/anuraghazra/github-readme-stats)
+### Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayaarvanitis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/maya-arvanitis-771853170)
