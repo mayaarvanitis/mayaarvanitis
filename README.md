@@ -10,11 +10,11 @@ I'm Maya, a U3 Computer Science & Biology student at McGill University.
 📧 email is best: ```maya.arvanitis@mail.mcgill.ca```
 
 ### Languages and Libraries:
-💾 Python
-💾 Java
-💾 C/C++
-💾 ...Bash, R, LaTeX enthusiast, MIPS Assembly, OCaml
-💽 TensorFlow, PyTorch, Sklearn
+💾 Python  
+💾 Java  
+💾 C/C++  
+💾 ...Bash, R, LaTeX enthusiast, MIPS Assembly, OCaml  
+💽 TensorFlow, PyTorch, Sklearn  
 
 ### Projects:
 - [Project 1](link)
