@@ -9,7 +9,7 @@
 ### 🌟 Languages and Libraries: 
 - Python  
 - Java  
-- C/C++  
+- C/C#/C++  
 - ...Bash, R, LaTeX enthusiast, MIPS Assembly, OCaml  
 - TensorFlow, PyTorch, Sklearn  
 
