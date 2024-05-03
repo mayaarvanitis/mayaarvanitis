@@ -6,10 +6,6 @@ I am passionate about using computational techniques to solve biological problem
 
 💬 Ask me about ```machine learning```, ```bioinformatics``` .  
   
-## 📫 How to reach me:  
-📧 - **Email:** [maya.arvanitis@mail.mcgill.ca](mailto:maya.arvanitis@mail.mcgill.ca)   
-📧 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/maya-arvanitis-771853170)
-  
 ### 🌟 Languages and Libraries:  
 - Python  
 - Java  
@@ -18,6 +14,10 @@ I am passionate about using computational techniques to solve biological problem
 - TensorFlow, PyTorch, Sklearn  
 
 --------------------------------------------------------------------
+## 🌟 How to reach me:  
+- **Email:** [maya.arvanitis@mail.mcgill.ca](mailto:maya.arvanitis@mail.mcgill.ca)   
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/maya-arvanitis-771853170)
+
 ### 🌟 non-tech ask me about...  
 - reading [Goodreads](https://www.goodreads.com/user/show/175332198-maya)  
 -  music ```piano, guitar, songwriting``` 
