@@ -16,11 +16,6 @@ I'm Maya, a U3 Computer Science & Biology student at McGill University.
 💾 ...Bash, R, LaTeX enthusiast, MIPS Assembly, OCaml  
 💽 TensorFlow, PyTorch, Sklearn  
 
-### Projects:
-- [Project 1](link)
-- [Project 2](link)
-- [Project 3](link)
-
 --------------------------------------------------------------------
 ### Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/maya-arvanitis-771853170)
