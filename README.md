@@ -3,7 +3,7 @@
 ### 🌱 I'm Maya, a U3 Computer Science & Biology student at McGill University.     
 
 --------------------------------------------------------------------
-💬 Ask me about ```machine learning```, .  
+💬 Ask me about ```machine learning```, ```bioinformatics``` .  
   
 📫 How to reach me:   
 📧 email is best: ```maya.arvanitis@mail.mcgill.ca```  
@@ -23,5 +23,5 @@
 📖 reading [Goodreads](https://www.goodreads.com/user/show/175332198-maya)  
 🎹 music ```piano, guitar, songwriting``` 
 🎮 video games   
-🎨 art
+🎨 art and art history
 
