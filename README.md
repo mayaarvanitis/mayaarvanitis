@@ -2,13 +2,15 @@
 
 ### 🌱 I'm Maya, a U3 Computer Science & Biology student at McGill University.     
 
+I am passionate about using computational techniques to solve biological problems!
 --------------------------------------------------------------------
 💬 Ask me about ```machine learning```, ```bioinformatics``` .  
   
-📫 <u>How to reach me:</u>   
-📧 email is best: ```maya.arvanitis@mail.mcgill.ca```  
+## 📫 How to reach me:  
+📧 - **Email:** [maya.arvanitis@mail.mcgill.ca](mailto:maya.arvanitis@mail.mcgill.ca)   
+📧 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/maya-arvanitis-771853170)
   
-### Languages and Libraries:  
+### 🌟 Languages and Libraries:  
 💾 Python  
 💾 Java  
 💾 C/C++  
@@ -16,9 +18,6 @@
 💽 TensorFlow, PyTorch, Sklearn  
 
 --------------------------------------------------------------------
-### Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/maya-arvanitis-771853170)
-
 🌻 non-tech ask me about...  
 📖 reading [Goodreads](https://www.goodreads.com/user/show/175332198-maya)  
 🎹 music ```piano, guitar, songwriting``` 
