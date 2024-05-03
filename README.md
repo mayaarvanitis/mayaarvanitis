@@ -5,7 +5,7 @@
 --------------------------------------------------------------------
 💬 Ask me about ```machine learning```, ```bioinformatics``` .  
   
-📫 How to reach me:   
+📫 <u>How to reach me:</u>   
 📧 email is best: ```maya.arvanitis@mail.mcgill.ca```  
   
 ### Languages and Libraries:  
