@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**mayaarvanitis/mayaarvanitis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Maya, a U3 Computer Science & Biology student at McGill University.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱
+
+💬 Ask me about [Your Expertise/Interest].
+
+📫 How to reach me: 
+email: maya.arvanitis@mail.mcgill.ca
+
+### Languages and Libraries:
+[Add icons or badges for your programming languages, tools, and technologies]
+
+### Projects:
+- [Project 1](link)
+- [Project 2](link)
+- [Project 3](link)
+
+### GitHub Stats:
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mayaarvanitis)](https://github.com/anuraghazra/github-readme-stats)
+
+### Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/maya-arvanitis-771853170)
