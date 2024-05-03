@@ -2,11 +2,11 @@
 
 ### 🌱 I'm Maya, a U3 Computer Science & Biology student at McGill University.     
 --------------------------------------------------------------------
-### 🧬 I am passionate about using computational techniques to solve biological problems!
+### 🧬 I am passionate about using computational methods to solve biological problems!
 
 💬 Ask me about ```machine learning```, ```bioinformatics``` .  
   
-### 🌟 Languages and Libraries:  
+### 🌟 Languages and Libraries: 
 - Python  
 - Java  
 - C/C++  
