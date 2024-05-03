@@ -1,6 +1,6 @@
 # Hi 👋
 
-🌱 I'm Maya, a U3 Computer Science & Biology student at McGill University.     
+### 🌱 I'm Maya, a U3 Computer Science & Biology student at McGill University.     
 
 --------------------------------------------------------------------
 💬 Ask me about ```machine learning```, .  
