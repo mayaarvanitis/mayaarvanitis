@@ -2,7 +2,7 @@
 
 ### 🌱 I'm Maya, a U3 Computer Science & Biology student at McGill University.     
 --------------------------------------------------------------------
-I am passionate about using computational techniques to solve biological problems!
+### I am passionate about using computational techniques to solve biological problems!
 
 💬 Ask me about ```machine learning```, ```bioinformatics``` .  
   
@@ -14,7 +14,7 @@ I am passionate about using computational techniques to solve biological problem
 - TensorFlow, PyTorch, Sklearn  
 
 --------------------------------------------------------------------
-## 🌟 How to reach me:  
+### 🌟 How to reach me:  
 - **Email:** [maya.arvanitis@mail.mcgill.ca](mailto:maya.arvanitis@mail.mcgill.ca)   
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/maya-arvanitis-771853170)
 
