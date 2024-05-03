@@ -1,15 +1,15 @@
 # Hi 👋
 
-I'm Maya, a U3 Computer Science & Biology student at McGill University.
+I'm Maya, a U3 Computer Science & Biology student at McGill University.  
+  
+🌱   
 
-🌱 
-
-💬 Ask me about ```machine learning```, .
-
-📫 How to reach me: 
-📧 email is best: ```maya.arvanitis@mail.mcgill.ca```
-
-### Languages and Libraries:
+💬 Ask me about ```machine learning```, .  
+  
+📫 How to reach me:   
+📧 email is best: ```maya.arvanitis@mail.mcgill.ca```  
+  
+### Languages and Libraries:  
 💾 Python  
 💾 Java  
 💾 C/C++  
