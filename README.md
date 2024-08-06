@@ -1,6 +1,6 @@
 # Hi 👋
 
-### 🌱 I'm Maya, a U3 Computer Science & Biology student at McGill University.     
+### 🌱 I'm Maya, a fourth year Computer Science & Biology student at McGill University.     
 --------------------------------------------------------------------
 ### 🧬 I am passionate about using computational methods to solve biological problems!
 
