@@ -4,7 +4,7 @@
 --------------------------------------------------------------------
 ### 🧬 I am passionate about using computational methods to solve biological problems!
 
-💬 Ask me about ```machine learning```, ```bioinformatics``` .  
+💬 Ask me about ```machine learning```, ```bioinformatics``` ```video games```.  
   
 ### 🌟 Languages and Libraries: 
 - Python  
