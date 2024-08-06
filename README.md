@@ -15,7 +15,7 @@
 
 --------------------------------------------------------------------
 ### 🌟 How to reach me:  
-- **Email:** [maya.arvanitis@mail.mcgill.ca](mailto:maya.arvanitis@mail.mcgill.ca)   
+- **Email:** [here](mailto:maya.arvanitis@mail.mcgill.ca)   
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/maya-arvanitis-771853170)
 
 ### 🌟 non-tech ask me about...  
