@@ -10,8 +10,8 @@
 - Python  
 - Java  
 - C/C#/C++  
-- ...Bash, R, LaTeX enthusiast, MIPS Assembly, OCaml  
-- TensorFlow, PyTorch, Sklearn  
+- ...Bash, R, LaTeX enthusiast, Assembly, OCaml  
+- TensorFlow, PyTorch, Sklearn +++
 
 --------------------------------------------------------------------
 ### 🌟 How to reach me:  
